@@ -1,2 +1,3 @@
 class Dog
-lassie = Dog.new
+ def name = (lassie)
+   @this_dogs_name = lassie 
